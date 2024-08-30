@@ -1,2 +1,1 @@
-# CursoHenryson
-Repositorio local
+Repositorio de prueba de GitHub Actualizado.
